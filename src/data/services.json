@@ -1,0 +1,10 @@
+[
+  {"title":"Frontend Development","description":"Responsive, modern interfaces built with React.js and Next.js for strong user experiences."},
+  {"title":"Backend Development","description":"Scalable server-side logic and application architecture using Node.js and Express.js."},
+  {"title":"Full Stack MERN Development","description":"End-to-end web applications across UI, API, database, and deployment layers."},
+  {"title":"REST API Development","description":"Secure and structured REST APIs for web apps, dashboards, and internal tools."},
+  {"title":"Authentication & Authorization","description":"JWT-based authentication, role-aware access control, and secure session handling."},
+  {"title":"Responsive Web Design","description":"Accessible, mobile-friendly interfaces with clean layouts and modern styling."},
+  {"title":"Database Design","description":"Thoughtful MongoDB and Mongoose schema design for maintainable data models."},
+  {"title":"Deployment","description":"Reliable deployment support for production-ready applications on modern platforms."}
+]

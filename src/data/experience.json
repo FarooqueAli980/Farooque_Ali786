@@ -1,0 +1,23 @@
+[
+  {
+    "role": "Freelance Full Stack MERN Developer",
+    "company": "Self Employed",
+    "period": "2024 – Present",
+    "description": "Delivered custom full-stack web applications, built HRM, LMS, and event management systems, developed RESTful APIs, designed MongoDB databases, implemented JWT authentication, built responsive React and Next.js applications, and created reusable UI components for real-world client projects.",
+    "highlights": ["Delivered custom full-stack applications", "Built HRM, LMS, and event systems", "Developed REST APIs and MongoDB models"]
+  },
+  {
+    "role": "Full Stack Developer Intern",
+    "company": "Technify Software Development",
+    "period": "April 2026 – June 2026",
+    "description": "Developed React.js and Next.js applications, integrated REST APIs, built reusable UI components, worked with Git and GitHub, collaborated with backend developers, and followed Agile methodology in a team environment.",
+    "highlights": ["Built React and Next.js interfaces", "Integrated backend APIs", "Worked in Agile delivery cycles"]
+  },
+  {
+    "role": "Full Stack Developer Intern",
+    "company": "WholCure",
+    "period": "February 2026 – May 2026",
+    "description": "Built reusable React components, connected frontend experiences to backend APIs, improved application performance, participated in sprint planning, and used Git version control to support team collaboration.",
+    "highlights": ["Connected frontend to backend APIs", "Improved performance", "Used Git and sprint planning"]
+  }
+]

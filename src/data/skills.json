@@ -1,0 +1,65 @@
+[
+  {
+    "category": "Frontend",
+    "icon": "Monitor",
+    "description": "Building polished, responsive user interfaces with modern React and Next.js patterns.",
+    "items": [
+      { "name": "React.js", "level": "Frontend Developer", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+      { "name": "Next.js", "level": "Frontend Developer", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" },
+      { "name": "JavaScript", "level": "Frontend Developer", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
+      { "name": "TypeScript", "level": "Frontend Developer", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" },
+      { "name": "HTML5", "level": "Frontend Developer", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
+      { "name": "CSS3", "level": "Frontend Developer", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" },
+      { "name": "Tailwind CSS", "level": "Frontend Developer", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" },
+      { "name": "Bootstrap", "level": "Frontend Developer", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" },
+      { "name": "Redux Toolkit", "level": "Frontend Developer", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" }
+    ]
+  },
+  {
+    "category": "Backend",
+    "icon": "Server",
+    "description": "Creating reliable server-side applications and secure API experiences.",
+    "items": [
+      { "name": "Node.js", "level": "Backend Developer", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" },
+      { "name": "Express.js", "level": "Backend Developer", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" },
+      { "name": "MongoDB", "level": "Backend Developer", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" },
+      { "name": "Mongoose", "level": "Backend Developer", "imageUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongoose.svg" },
+      { "name": "REST APIs", "level": "Backend Developer", "imageUrl": "https://www.svgrepo.com/show/375531/api.svg" },
+      { "name": "JWT Authentication", "level": "Backend Developer", "imageUrl": "https://jwt.io/img/pic_logo.svg" },
+      { "name": "MVC Architecture", "level": "Backend Developer" }
+    ]
+  },
+  {
+    "category": "Tools",
+    "icon": "Cpu",
+    "description": "Using modern tooling and collaborative workflows for efficient delivery.",
+    "items": [
+      { "name": "Git", "level": "Version Control", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" },
+      { "name": "GitHub", "level": "Version Control", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
+      { "name": "Postman", "level": "API Testing", "imageUrl": "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" },
+      { "name": "Vercel", "level": "Deployment", "imageUrl": "https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/180x180.png" },
+      { "name": "Figma", "level": "Design", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" },
+      { "name": "VS Code", "level": "Editor", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" },
+      { "name": "Axios", "level": "HTTP Client", "imageUrl": "https://cdn.worldvectorlogo.com/logos/axios.svg" },
+      { "name": "MySQL", "level": "Database", "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" },
+      { "name": "Cursor AI", "level": "AI Workflow" },
+      { "name": "Claude Code", "level": "AI Workflow" },
+      { "name": "Windsurf", "level": "AI Workflow" },
+      { "name": "Antigravity", "level": "AI Workflow" }
+    ]
+  },
+  {
+    "category": "Soft Skills",
+    "icon": "Sparkles",
+    "description": "Combining technical execution with communication and calm problem-solving.",
+    "items": [
+      { "name": "Problem Solving", "level": " " },
+      { "name": "Communication", "level": " " },
+      { "name": "Team Collaboration", "level": " " },
+      { "name": "Time Management", "level": " " },
+      { "name": "Adaptability", "level": " " },
+      { "name": "Critical Thinking", "level": " " },
+      { "name": "Creativity", "level": " " }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "title": "HRM System - MERN",
+    "description": "Built a full-stack HR platform for admins, managers, and employees with secure authentication, role-based flows, attendance tracking, and payroll management.",
+    "image": "/images/HRM.png",
+    "tech": ["MongoDB", "Express.js", "React.js", "Node.js", "Tailwind CSS"],
+    "github": "https://github.com",
+    "demo": "https://example.com"
+  },
+  {
+    "title": "LMS - Learning Management System",
+    "description": "Developed a modern learning platform with course management, enrollment workflows, instructor dashboards, and polished responsive interfaces.",
+    "image": "/images/LMS.png",
+    "tech": ["MongoDB", "Express.js", "React.js", "Node.js", "Tailwind CSS"],
+    "github": "https://github.com/FarooqueAli980",
+    "demo": "https://iit-phi.vercel.app"
+  },
+  {
+    "title": "Portfolio Website",
+    "description": "Designed and developed a premium developer portfolio with a sophisticated visual language, fluid motion, and performance-focused structure.",
+    "image": "/images/portfolio.png",
+    "tech": ["React.js", "Tailwind CSS", "Framer Motion"],
+    "github": "https://github.com/FarooqueAli980",
+    "demo": "https://farooqueali980.github.io/farooq_Portfo/"
+  },
+  {
+    "title": "Travel Agency Website",
+    "description": "Built a polished travel booking experience with authentication, rich content sections, and responsive product storytelling.",
+    "image": "/images/TravelAgency.png",
+    "tech": ["MongoDB", "Express.js", "React.js", "Node.js", "Tailwind CSS"],
+    "github": "https://github.com/FarooqueAli980",
+    "demo": "https://farooqueali980.github.io/Travel_Agency_Website/"
+  },
+  {
+    "title": "Baku-To Landing Page",
+    "description": "Crafted a premium landing page experience with refined layout systems, motion, and a strong visual hierarchy for conversion-focused storytelling.",
+    "image": "/images/Time.png",
+    "tech": ["React.js", "Tailwind CSS", "Framer Motion"],
+    "github": "https://github.com/FarooqueAli980",
+    "demo": "https://farooqueali980.github.io/Landing-Page-Baku-To/"
+  },
+  {
+    "title":"Expense Tracker",
+    "description":"Developed a user-friendly expense tracker application that allows users to monitor their spending habits, categorize expenses, and visualize financial data through interactive charts.",
+    "image":"/images/ExpenseTracker.png",
+    "tech":["React.js","Node.js","Express.js","MongoDB","Chart.js"],
+    "github":"https://github.com/FarooqueAli980/Expensive-Server",
+    "demo":"https://expense-tracker-app.vercel.app/"
+    
+  }
+]
